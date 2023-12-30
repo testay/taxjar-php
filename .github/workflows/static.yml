@@ -1,4 +1,4 @@
-# Simple workflow for deploying static content to GitHub Pages
+[![Deploy static content to Pages](https://github.com/testay/taxjar-php/actions/workflows/static.yml/badge.svg?branch=master)](https://github.com/testay/taxjar-php/actions/workflows/static.yml)# Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
 on:
